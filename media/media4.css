@@ -1,0 +1,545 @@
+@media  (max-width: 576px){
+    .image-box{
+       flex-wrap: wrap;
+       width: 100%;
+    }
+    .box{
+        width: 100%; 
+    }
+    .navbar{
+        width: 77%;
+    }
+    .card-title{
+        width: 46%;
+        font-size: 17px;
+    }
+    .card-subtitle{
+        width: 100%;
+        font-size: 40px;
+    }
+    .card-subtitle1{
+        width: 61%;
+        font-size: 39px;
+    }
+    .card-text{
+       width: 450px;
+       font-size: 14px;
+    }
+    .card1{
+        flex-direction: column !important;
+    }
+    .btn-primary{
+       width: 26%;
+    }
+    .btn-outline-secondary{
+       width: 31%;
+       color: white !important;
+       border-color: white !important;
+    }
+    .list-group{
+        z-index: -1;
+    }
+    .height{
+       width: 300px;
+       height: 20px;
+       font-style: normal;
+       font-size: 20px;
+    }
+    .height1{
+       height: 20px;
+       font-style: normal;
+       font-size: 20px;
+    }
+    .height2{
+      width: 205px;
+      height: 20px;
+      font-style: normal;
+      font-size: 25px;
+      font-weight: 700;
+    } 
+    .height3{
+      width: 205px;
+      height: 25px;
+      font-style: normal;
+      font-size: 20px;
+      color: gray;
+    }
+    .height4{
+      width: 205px;
+      height: 25px;
+      font-style: normal;
+      font-size: 20px;
+    }
+    .height5{
+      width: 405px;
+      height: 35px;
+      font-style: normal;
+      font-size: 14px;
+    }
+    .height6{
+      width: 311px;
+      height: 5px;
+      font-style: normal;
+      font-size: 15px;
+      font-weight: 700;
+    }
+     .list-group-item{
+        width: 100%;
+    }
+    .d{
+      height: 79%;
+      width: 100%;
+    }
+    .v{
+      width: 98%;
+      height: 5%;
+    } 
+    .p{
+      width: 66%;
+      height: 10%;
+    }
+    .card-body{
+        width: 63%;
+        height: 10%;
+    }
+     .container-fluid{
+        width: 95%;
+    }
+}
+@media (min-width: 577px) and (max-width:767px)
+{
+    .image-box{
+        flex-wrap: wrap;
+        width: 100%;
+    }
+    .box{
+        width: 100%;
+    }
+    .navbar{
+        width: 83%;
+    }
+    .card-title{
+        width: 40%;
+        font-size: 15px;
+    }
+    .card1{
+        flex-direction: column !important;
+    }
+    .card-subtitle{
+        width: 433px;
+        font-size: 50px;
+    }
+    .card-subtitle1{
+        width: 530px;
+        font-size: 50px;
+    }
+    .card-text{
+       width: 546px;
+       font-size: 17px;
+    }
+    .btn-primary{
+       width: 27%; 
+    }
+    .btn-outline-secondary{
+       width: 31%;
+       color: white !important;
+       border-color: white !important;
+    }
+    .list-group{
+        z-index: -1;
+    }
+    .height{
+       width: 390px;
+       height: 20px;
+       font-style: normal;
+       font-size: 20px;
+    }
+    .height1{
+       height: 20px;
+       font-style: normal;
+       font-size: 20px;
+    }
+    .height2{
+      width: 331px;
+      height: 20px;
+      font-style: normal;
+      font-size: 25px;
+      font-weight: 700;
+    } 
+    .height3{
+      width: 333px;
+      height: 25px;
+      font-style: normal;
+      font-size: 20px;
+      color: gray;
+    }
+    .height4{
+      width: 258px;
+      height: 25px;
+      font-style: normal;
+      font-size: 20px;
+    }
+    .height5{
+      width: 94%;
+      height: 25px;
+      font-style: normal;
+      font-size: 14px;
+    }
+    .height6{
+      width: 540px;
+      height: 5px;
+      font-style: normal;
+      font-size: 15px;
+      font-weight: 700;
+    }
+     .list-group-item{
+        width: 78%;
+    }
+    .d{
+      height: 79%;
+      width: 82%;
+    }
+    .v{
+      width: 98%;
+      height: 5%;
+    } 
+    .p{
+      width: 85%;
+      height: 10%;
+    }
+    .card-body{
+        width: 65%;
+        height: 4%;
+    }
+     .container-fluid{
+        width: 95%;
+    }
+}
+@media (min-width: 768px) and (max-width: 991px)
+{
+  .image-box{
+        flex-wrap: wrap;
+        width: 100%;
+    }
+    .box{
+        width: 100%;
+    }
+    .navbar{
+        width: 95%;
+    }
+    .card-title{
+        width: 40%;
+        font-size: 15px;
+    }
+    .card-subtitle{
+        width: 433px;
+        font-size: 50px;
+    }
+    .card1{
+        flex-direction: column !important;
+    }
+    
+    .card-subtitle1{
+        width: 530px;
+        font-size: 50px;
+    }
+    .card-text{
+       width: 477px;
+       font-size: 15px;
+    }
+    .btn-primary{
+       width: 27%;
+    }
+    .btn-outline-secondary{
+       width: 31%;
+       color: white !important;
+       border-color: white !important;
+    }
+    .list-group{
+        z-index: -1;
+    }
+    .height{
+       width: 554px;
+       height: 20px;
+       font-style: normal;
+       font-size: 20px;
+    }
+    .height1{
+       height: 20px;
+       font-style: normal;
+       font-size: 20px;
+    }
+    .height2{
+      width: 327px;
+      height: 20px;
+      font-style: normal;
+      font-size: 25px;
+      font-weight: 700;
+    } 
+    .height3{
+      width: 330px;
+      height: 25px;
+      font-style: normal;
+      font-size: 20px;
+      color: gray;
+    }
+    .height4{
+      width: 310%;
+      height: 25px;
+      font-style: normal;
+      font-size: 20px;
+    }
+    .height5{
+      width: 95%;
+      height: 37px;
+      font-style: normal;
+      font-size: 14px;
+    }
+    .height6{
+      width: 555px;
+      height: 5px;
+      font-style: normal;
+      font-size: 15px;
+      font-weight: 700;
+    }
+     .list-group-item{
+        width: 100%;
+    }
+    .d{
+      height: 79%;
+      width: 100%;
+    }
+    .v{
+      width: 98%;
+      height: 5%;
+    } 
+    .p{
+      width: 85%;
+      height: 10%;
+    }
+    .card-body{
+        width: 63%;
+        height: 6%;
+    }
+    .container-fluid{
+        width: 100%;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199px)
+{
+   
+    .image-box{
+        flex-wrap: wrap;
+        width: 100%;
+    }
+    .box{
+        width: 100%;
+    }
+      .navbar{
+        width: 100%;
+    }
+    .card-title{
+        width: 51%;
+        font-size: 15px;
+    }
+    .card1{
+        flex-direction: column !important;
+    }
+    .card-subtitle{
+        width: 443px;
+        font-size: 50px;
+    }
+    .card-subtitle1{
+        width: 527px;
+        font-size: 50px;
+    }
+    .card-text{
+       width: 96%;
+       font-size: 15px;
+    }
+    .btn-primary{
+       width: 35%;
+    }
+    .btn-outline-secondary{
+       width: 41%;
+       color: white !important;
+       border-color: white !important;
+    }
+    .list-group{
+        z-index: -1;
+    }
+    .height{
+       width: 600px;
+       height: 20px;
+       font-style: normal;
+       font-size: 20px;
+    }
+    .height1{
+       height: 20px;
+       font-style: normal;
+       font-size: 20px;
+    }
+    .height2{
+      width: 354px;
+      height: 20px;
+      font-style: normal;
+      font-size: 25px;
+      font-weight: 700;
+    } 
+    .height3{
+      width: 354px;
+      height: 25px;
+      font-style: normal;
+      font-size: 20px;
+      color: gray;
+    }
+    .height4{
+      width: 354px;
+      height: 25px;
+      font-style: normal;
+      font-size: 20px;
+    }
+    .height5{
+      width: 654px;
+      height: 39px;
+      font-style: normal;
+      font-size: 14px;
+    }
+    .height6{
+      width: 613px;
+      height: 5px;
+      font-style: normal;
+      font-size: 15px;
+      font-weight: 700;
+    }
+     .list-group-item{
+        width: 100%;
+    }
+    .d{
+      height: 79%;
+      width: 100%;
+    }
+    .v{
+      width: 98%;
+      height: 5%;
+    } 
+    .p{
+      width: 85%;
+      height: 10%;
+    }
+    .card-body{
+        width: 64%;
+        height: 10%;
+    }
+     .container-fluid{
+        width: 100%;
+    } 
+}
+@media (min-width: 1200px) and (max-width: 1400px) 
+{
+
+    .image-box{
+        flex-wrap: wrap;
+        width: 100%;
+    }
+    .box{
+        width: 100%;
+    }
+    .navbar{
+        width: 95%;
+    }
+    .card-title{
+        width: 45%;
+        font-size: 17px;
+    }
+    .card-subtitle{
+        width: 440px;
+        font-size: 50px;
+    }
+    .card-subtitle1{
+        width: 527px;
+        font-size: 50px;
+    }
+    .card-text{
+       width: 546px;
+       font-size: 17px;
+    }
+    .btn-primary{
+       width: 27%;
+    }
+    .btn-outline-secondary{
+       width: 32%;
+       color: white !important;
+       border-color: white !important;
+    }
+    .list-group{
+        z-index: -1;
+    }
+    .height{
+       width: 300px;
+       height: 20px;
+       font-style: normal;
+       font-size: 20px;
+    }
+    .height1{
+       height: 20px;
+       font-style: normal;
+       font-size: 20px;
+    }
+    .height2{
+      width: 205px;
+      height: 20px;
+      font-style: normal;
+      font-size: 25px;
+      font-weight: 700;
+    } 
+    .height3{
+      width: 205px;
+      height: 11px;
+      font-style: normal;
+      font-size: 20px;
+      color: gray;
+    }
+    .height4{
+      width: 205px;
+      height: 12px;
+      font-style: normal;
+      font-size: 20px;
+    }
+    .height5{
+      width: 405px;
+      height: 35px;
+      font-style: normal;
+      font-size: 14px;
+    }
+    .height6{
+      width: 311px;
+      height: 5px;
+      font-style: normal;
+      font-size: 15px;
+      font-weight: 700;
+    }
+    .list-group-item{
+        width: 100%;
+    }
+    .d{
+      height: 79%;
+      width: 100%;
+    }
+    .v{
+      width: 99%;
+      height: 10%;
+    } 
+    .p{
+      width: 85%;
+      height: 10%;
+    }
+    .card-body{
+        width: 65%;
+        height: 33%;
+    }
+    .container-fluid{
+        width: 100%;
+    }
+}

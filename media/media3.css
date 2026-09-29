@@ -1,0 +1,27 @@
+@media(max-width: 576px){
+    .main{
+        background-color:hotpink;
+        flex-wrap: wrap;
+    }
+    .box{
+        width: 100%;
+    }
+}
+@media(min-width: 577px) and (max-width: 767px){
+    .main{
+        background-color: blue;
+        flex-wrap: wrap;
+    }
+    .box{
+        width: 50%;
+    }
+}
+@media(min-width: 768px) and (max-width: 991px){
+    .main{
+        flex-wrap: wrap;
+        background-color: darkmagenta;
+    }
+    .box{
+        width: 50%;
+    }
+}
