@@ -1,0 +1,31 @@
+.collapse-navbar-collapse{
+    width: 80% !important;
+    display: flex !important;
+    justify-content: center !important;
+    gap: 20px !important;
+}
+.navbar-nav{
+    display: flex !important;
+    justify-content: center !important;
+    gap: 20px !important;
+}
+.nav-link:hover{
+   color: red !important;
+   gap: 20px !important;
+}
+.nav-link{
+    color: white !important;
+}
+.btnbtn-primary{
+    font-size: 20px !important;
+    background-color: gray !important;
+    border-radius: 30px !important;
+    border-color: gray !important;
+}
+.dropdown-item:hover{
+   color: red !important;
+}
+.navbar-brand{
+    font-size: 25px !important;
+    color: white !important;
+}

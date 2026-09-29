@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.box{
+    width: 100px !important;
+    height: 500px !important;
+}
+.w25{
+    height: 100px !important;
+    display: flex !important;
+    width: 140px !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
+h5:hover{
+    color: red;
+}
+a:hover{
+    color: red;
+    transform: scaleY(2);
+}
+.card:hover{
+    filter: drop-shadow(10px 10px 8px rgba(0, 0, 0, 0.5));
+    transition: 0.5s ease-in-out;
+}
+img{
+    margin-left: 20px !important;
+}

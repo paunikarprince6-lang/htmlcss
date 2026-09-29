@@ -1,0 +1,45 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.box{
+    width: 500px;
+    height: 500px;
+    background-color: aqua;
+    background-image: url('../media/closeup-shot-beautiful-butterfly-with-interesting-textures-orange-petaled-flower_181624-7640.avif');
+    background-size: 100% 100%;
+    position: relative;
+    z-index: 1;
+}
+.box::before{
+    content: "";
+    width: 500px;
+    height: 500px;
+    position: absolute;
+    background-color: rgba(0, 89, 255, 0.4);
+    z-index: -1;
+}
+.box p,h1,h2{
+    color: white;
+}
+.image{
+    width: 500px;
+    height: 500px;
+    background-color: aqua;
+    background-image: url('../media/images.jpg');
+    background-size: 100% 100%;
+    position: relative;
+    z-index: 1;
+}
+.image::before{
+    content: "";
+    width: 500px;
+    height: 500px;
+    position: absolute;
+    background-color: rgba(0, 89, 255, 0.3);
+    z-index: -1;
+}
+.image h1{
+    color: white;
+    font-size: 50px;
+}

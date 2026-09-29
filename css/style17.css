@@ -1,0 +1,52 @@
+.nav-link:hover{
+    color: white !important;
+}
+.dropdown-item:hover{
+    color: skyblue !important;
+}
+.card-link:hover{
+    color: skyblue !important;
+}
+.col2 img:hover{
+    transform: translate(10px , 10px);
+}
+ul li:hover .dropdown-menu{
+    display: block !important;
+}
+.btnbtn-primary:hover{
+   background-color: skyblue !important;
+   color: white !important; 
+} 
+.accordion-button:hover{
+    color: skyblue !important;
+}
+.col3 img:hover{
+    transform: translate(10px , 10px);
+}
+.card-title1:hover{
+    color: skyblue !important;
+}
+.card:hover{
+    transform: translateX(5px);
+    transform: translateY(5px);
+}
+.col5:hover{
+    transform: translateX(5px);
+    transform: translateY(5px);
+}
+.col5 img:hover{
+    transform: scale(1.1);
+}
+.nav-item1:hover{
+    background-color: skyblue !important;
+    border-radius: 20px !important;
+}
+.btn-primary:hover{
+    background-color: skyblue !important;
+    color: white !important;
+    border-color: skyblue !important;
+}
+.btn-outline-info1:hover{
+    background-color: skyblue !important;
+    color: white !important;
+}

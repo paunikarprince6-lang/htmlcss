@@ -1,0 +1,116 @@
+.h1{
+    width: 146px;
+    height: 100px;
+    font-size: 17px;
+}
+.flex{
+    width: 83%;
+    height: 100px;
+    display: flex;
+}
+ul{
+    display: flex;
+    width: 89%;
+    height: 57px;
+    list-style: none;
+    justify-content: center;
+    align-items: center;
+}
+ul li{
+    width: 165px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    font-size: 25px;
+}
+.h10{
+    width: 14%;
+    height: 56px;
+    font-size: 30px;
+    background-color: red;
+    display: flex;
+    border-radius: 14px;
+    align-items: stretch;
+    margin-left: 86%;
+    margin-top: -6%;
+    flex-direction: column
+    
+}
+.h2{
+    width: 28%;
+    height: 100px;
+    font-size: 16px;
+    color: gray;
+}
+.h3{
+    width: 40%;
+    height: 45px;
+    font-size: 36px;
+    margin-top: -97px;
+}
+.h4{
+    width: 40%;
+    height: 45px;
+    font-size: 23px;
+    margin-top: 82px;
+    color: gray;
+}
+.h5{
+    width: 15%;
+    height: 49px;
+    font-size: 37px;
+    margin-top: 73px;
+    display: flex;
+    background-color: red;
+    border-radius: 14px;
+    align-items: center;
+    flex-direction: row;
+}
+.h6{
+    width: 40%;
+    height: 7px;
+    font-size: 35px;
+    margin-top: -93px;
+    margin-left: 17%;
+}
+.h7{
+    width: 8%;
+    height: 59px;
+    font-size: 24px;
+    border: 1px solid black;
+    margin-left: 10px;
+    margin-top: 48px;
+    border-radius: 10px;
+    color: gray;
+}
+.h8{
+    width: 9%;
+    height: 59px;
+    font-size: 24px;
+    border: 1px solid black;
+    margin-left: 138px;
+    margin-top: -61px;
+    border-radius: 10px;
+    color: gray;
+}
+.h9{
+    width: 9%;
+    height: 59px;
+    font-size: 24px;
+    border: 1px solid black;
+    margin-left: 20%;
+    margin-top: -61px;
+    border-radius: 10px;
+    color: gray;
+}
+.image{
+    width: 297px;
+    height: 162px;
+    margin-left: 45%;
+    margin-top: -28%;
+}
+
+
+
