@@ -1,0 +1,101 @@
+a:link{
+    color: blue;
+}
+a:active{
+    color: aqua;
+}
+a:visited{
+    color: brown;
+}
+a:hover{
+    color:chartreuse;
+}
+li:first-child{
+    color: blueviolet;
+}
+li:first-of-type{
+    color: gray;
+}
+li:last-child{
+    color: firebrick;
+}
+li:last-of-type{
+    color: forestgreen;
+}
+li:nth-child(4){
+    color: fuchsia;
+}
+li:nth-of-type(3){
+    color: thistle;
+}
+li:nth-last-child(4){
+    color: teal;
+}
+li:nth-last-of-type(3){
+    color: tan;
+}
+li:only-child{
+    color: tomato;
+}
+li:only-of-type{
+    color: turquoise;
+}
+li:not(p){
+    color: saddlebrown;
+}
+div:empty{
+    width: 100px;
+    height: 100px;
+    background-color: salmon;
+}
+input:required{
+    background-color: sandybrown;
+}
+input:enabled{
+    background-color: seagreen;
+}
+input:disabled{
+    background-color: sienna;
+}
+input:focus{
+    color: silver;
+}
+input:read-only{
+    background-color: skyblue;
+}
+input:read-write{
+    background-color: slateblue;
+}
+input:in-range{
+    background-color: springgreen;
+}
+input:valid{
+    color: steelblue;
+}
+input:invalid{
+    color: palegoldenrod;
+}
+input::placeholder{
+    color: palegreen;
+}
+input:target{
+    color: paleturquoise;
+}
+p::first-letter{
+    color: rgb(33, 33, 228);
+}
+p::first-line{
+    color: purple;
+}
+p::selection{
+    background-color: black;
+    color: red;
+}
+p::after{
+    content: "text";
+    color: darkorange;
+}
+p::before{
+    content: "cdmi";
+    color: plum;
+}

@@ -1,0 +1,74 @@
+.collapse-navbar-collapse{
+    width: 80% !important;
+    gap: 20px !important;
+}
+.navbar-nav{
+    gap: 20px !important;
+}
+.nav-link:hover{
+   color: rgb(38, 238, 20) !important;
+   gap: 20px !important;
+}
+.btnbtn-primary{
+    font-size: 20px !important;
+    background-color: green !important;
+    border-radius: 30px !important;
+    border-color: green !important;
+}
+.navbar-brand{
+    font-size: 25px !important;
+}
+.dropdown-item:hover{
+   color: rgb(38, 238, 20) !important;
+}
+.box{
+    width: 100%;
+    height: 500px !important;
+}
+.btnbtn-primary1{
+    font-size: 15px !important;
+    background-color: greenyellow !important;
+    border-radius: 30px !important;
+    border-color: greenyellow !important;
+}
+.card-link:hover{
+    color: rgb(38, 238, 20) !important;
+}
+.card-text{
+    font-weight: 700 !important;
+}
+.card-text2{
+    font-weight: 700 !important;
+}
+.col{
+    margin-top: -390px !important;
+    margin-left: 190px !important;
+}
+.card-text1{
+    color: greenyellow !important;
+}
+.text-body-secondary{
+    color: white;
+}
+.card-title{
+    font-weight: 900 !important;
+}
+.card-title1{
+    font-weight: 900 !important;
+}
+.col1{
+    margin-left: 52% !important;
+    margin-top: -30% !important;
+}
+.card-title2{
+    font-weight: 900 !important;
+}
+.card-title3{
+    font-weight: 900 !important;
+}
+.card-title4:hover{
+    color: green !important;
+}
+.btn:hover{
+    color: green !important;
+}

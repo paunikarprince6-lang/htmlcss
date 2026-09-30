@@ -1,0 +1,93 @@
+/* .blockquote{
+    font-size: 40px !important;
+    width: 41% !important;
+    height: 60px !important;
+    font-weight: 700 !important;
+}
+.btn-btn-primary{
+    font-size: 20px !important;
+    background-color: orangered !important;
+    border-radius: 33px !important;
+    border-color: orangered !important;
+    width: 15% !important;
+    height: 65px !important;
+}
+.h5{
+    width: 100px !important;
+    height: 70px !important;
+    font-weight: 700 !important;
+    font-size: 50px !important;
+}
+.card-text{
+    width: 36% !important;
+    height: 140px !important;
+    font-size: 20px !important;
+    color: gray !important;
+}
+.btn-btn-primary1{
+    width: 65px !important;
+    height: 65px !important;
+    border-radius: 50% !important;
+}
+.btn-btn-primary1:hover{
+   background-color: orangered !important;
+}
+.explore{
+    width: 90% !important;
+    height: 100% !important;
+    margin-top: -257px !important;
+    gap: 5% !important;
+}
+.list-group-item:hover{
+    color: orangered !important;
+    transform:translateX(5px);
+}
+.list-group-item{
+    color: grey !important;
+    border-color: black !important;
+    transition: 0.5s;
+}
+.card-footer{
+    border-color: gray !important;
+    font-size: 25px !important;
+}
+.footer{
+    height: 120px !important;
+}
+.h6{
+    font-size: 20px !important;
+}
+.col-md-4{
+    width: 50px !important;
+    height: 80px !important;
+}
+.row{
+    width: 100% !important;
+}
+.btn-btn-primary5{
+    font-size: 20px !important;
+    background-color: orangered !important;
+    border-radius: 33px !important;
+    border-color: orangered !important;
+    width: 20% !important;
+    height: 65px !important;
+} */
+.box{
+  height: 650px !important;
+  background-color: rgb(235, 227, 218);
+}
+.d-flex{
+     background-color: rgb(235, 227, 218);
+}
+.fs-1{
+     background-color: rgb(235, 227, 218);
+}
+.card-body{
+    background-color: rgb(235, 227, 218);
+}
+.accordion-button:hover{
+    color: red !important;
+}
+.accordion-body{
+    color: gray !important;
+}

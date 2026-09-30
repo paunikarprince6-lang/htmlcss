@@ -1,0 +1,14 @@
+.btnbtn-primary{
+    width: 14% !important;
+    font-size: 20px !important;
+    background-color: green !important;
+    border-radius: 30px !important;
+    border-color: green !important;
+}
+.nav-link:hover{
+   color: green !important;
+   gap: 20px !important;
+}
+.dropdown-item:hover{
+   color: green !important;
+}

@@ -1,0 +1,47 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.image-box{
+    width: 100%;
+    height: 1100px;
+    background-color: aqua;
+    background-image: url(../media/showcase-1.webp);
+    background-size: 100% 100%;
+    z-index: 1;
+    position: relative;
+}
+.image-box::before{
+    content: "";
+    width: 100%;
+    height: 1100px;
+    background-color: rgba(2, 141, 196, 0.466);
+    z-index: -1;
+    position: absolute;
+}
+.nav-link:hover{
+   color: skyblue !important;
+}
+.card-link{
+    text-decoration: none !important;
+}
+.dropdown-item:hover{
+    color: skyblue !important;
+}
+.a{
+ width: 140px;
+}
+.dropdown:hover .dropdown-menu{
+    display: block;
+}
+.box{
+    width: 100%;
+    height: 16%;
+}
+.box-1{
+    width: 98%;
+    height: 100px;
+}
+.card1{
+    width: 92%;
+}
