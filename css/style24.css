@@ -4,7 +4,7 @@
 }
 .image-box{
     width: 100%;
-    height: 1100px;
+    height: 1445px;
     background-color: aqua;
     background-image: url(../media/showcase-1.webp);
     background-size: 100% 100%;
@@ -14,45 +14,172 @@
 .image-box::before{
     content: "";
     width: 100%;
-    height: 1100px;
+    height: 1445px;
     background-color: rgba(2, 141, 196, 0.466);
     z-index: -1;
     position: absolute;
 }
-.nav-link:hover{
-   color: skyblue !important;
-}
-.card-link{
-    text-decoration: none !important;
-}
-.dropdown-item:hover{
-    color: skyblue !important;
-}
+
 .a{
- width: 140px;
+    width: 125px !important;
 }
+.btn{
+    width: 130px;
+    
+}
+
 .dropdown:hover .dropdown-menu{
     display: block;
 }
+
 .box{
     width: 100%;
-    height: 16%;
+    height: 170px;
 }
-.box-1{
-    width: 98%;
-    height: 100px;
+/* .card1{
+    width: 90%;
+} */
+.card-subtitle{
+    /* width: 99%; */
+    font-size: 50px;
 }
-.card1{
-    width: 92%;
+.card-title{
+    width: 27%;
+    font-size: 12px;
 }
-.box2{
-    width: 24%;
-    height: 20%;
+.graypip{
+    width: 95%;
 }
-.a1{
-    font-size: 60%;
-    font-weight: 700;
+.graypipi{
+    height: 45px;
 }
-.a2{
-    font-size: 60%;
+.paipi{
+    height: 80px;
+}
+
+
+/* .card-text{
+   width: 55%;
+} */
+    /* .navbar{
+        width: 100% !important;
+    } */
+/* .navbar-brand{
+    width: 15%;
+} */
+.w{
+    width: 16%;
+}
+.Appointment{
+    width: 100%;
+}
+
+.v{
+    width: 35%;
+}
+.call{
+    width: 35%;
+    height: 75px;
+}
+.icon{
+    width: 70% !important;
+    height: 60% !important;
+}
+.ms-2{
+    width: 100%;
+}
+.badge{
+    width: 20%;
+    height: 75px;
+}
+p{
+    width: 100%;
+    height: 45px;
+}
+.row{
+    width: 110%;
+    height: 45px;
+}
+.height1{
+    height: 20px;
+    font-style: normal;
+    font-size: 12px;
+    opacity: 45%;
+}
+.w-1{
+    width: 60% ;
+}
+/* .w-2{
+    width: 35%;
+} */
+.f2{
+    width: 60%;
+    font-size: 14px;
+}
+.paip{
+    height: 5px;
+}
+.fs{
+    font-size: 12px;
+    opacity: 45%;
+    height: 20px;
+}
+
+.height{
+    height: 25px;
+    font-style: normal;
+    font-size: 15px;
+}
+.info{
+    width: 100%;
+}
+
+.list-group-item{
+    z-index: -1;
+}
+.Treated{
+ font-size: 12px !important;
+}
+.d{
+    height: 74px;
+}
+/* .h{
+    width: 100%;
+    height: 215px !important;
+} */
+.rating{
+    font-size: 12px;
+}
+.line{
+    width: 100%;
+}
+.main-line{
+    width: 95%;
+    font-size: 14px;
+}
+.b{
+    width: 100%;
+    height: 5px;
+}
+.liti{
+    width: 95%;
+    height: 35px;
+}
+.lito{
+    width: 100%;
+    height: 1px;
+}
+.meta-link{
+    width: 100%;
+}
+.meta-class{
+    width: 23%;
+    
+}
+.span{
+    text-decoration: none !important;
+}
+.card-link{
+
+    height: 25px;
 }
