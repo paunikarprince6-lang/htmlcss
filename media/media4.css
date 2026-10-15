@@ -454,8 +454,11 @@
     width: 100% !important;
     height: 50px;
    }
-   .awrerd-text{
-    width: 50%;
+   .awerd-text1{
+    width: 68%;
+   }
+   .opacity-50{
+    width: 150px;
    }
    span{
     font-weight: bold;
