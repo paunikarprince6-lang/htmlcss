@@ -77,7 +77,7 @@
     font-size: 12px !important;
 
     }
-    .v{
+    .v1{
         flex-direction: column !important;
         width: 110%;
         height: 400px;
@@ -95,7 +95,13 @@
         height: 22px;
     }
     .box-2{
+        width: 100%;
         height: 15%;
+    }
+    .list-group-item{
+        flex-direction: column !important;
+        width: 310px;
+        height: 80%;
     }
      .call {
     width: 50%;
@@ -119,6 +125,60 @@
     .card-link{
         width: 100%;
     }
+    .awerd-icon1{
+    width: 25%;
+    height: 60px;
+   }
+   .awerd-icon2{
+    width: 25%;
+    height: 60px;
+   }
+   .awerd-icon3{
+    width: 25%;
+    height: 60px;
+   }
+   .awerd-icon4{
+    width: 25%;
+    height: 60px;
+   }
+   .awerd-iconn1{
+    width: 48px !important;
+    height: 50px;
+   }
+   .awerd-iconn2{
+    width: 48px !important;
+    height: 50px;
+   }
+   .awerd-iconn3{
+    width: 48px !important;
+    height: 50px;
+   }
+   .awerd-iconn4{
+    width: 48px !important;
+    height: 50px;
+   }
+   .awerd-text1{
+    width: 68%;
+   }
+   .fw-bold1{
+    height: 48%;
+   }
+   .fw-bold2{
+    height: 50%;
+   }
+   .fw-bold3{
+    height: 50%;
+   }
+   .fw-bold4{
+    height: 50%;
+   }
+   .opacity-50{
+    width: 150px;
+    }
+   span{
+    font-weight: bold;
+    font-size: smaller;
+   }
     p{
     width: 100%;
     height: 75px;
@@ -138,6 +198,15 @@
     .box-1{
         width: 100%;
         height: 60px;
+    }
+    .box-2{
+        width: 100%;
+        height: 14%;
+    }
+    .list-group-item{
+        flex-direction: column !important;
+        width: 380px;
+        height: 80%;
     }
     .navbar{
         width: 95%;
@@ -241,24 +310,61 @@
     .w-2 {
     width: 25%;
     }
-    .awerd-icon{
+     .awerd-icon1{
     width: 25%;
     height: 60px;
    }
-   .awerd-iconn{
-    width: 100% !important;
+   .awerd-icon2{
+    width: 25%;
+    height: 60px;
+   }
+   .awerd-icon3{
+    width: 25%;
+    height: 60px;
+   }
+   .awerd-icon4{
+    width: 25%;
+    height: 60px;
+   }
+   .awerd-iconn1{
+    width: 48px !important;
+    height: 50px;
+   }
+   .awerd-iconn2{
+    width: 48px !important;
+    height: 50px;
+   }
+   .awerd-iconn3{
+    width: 48px !important;
+    height: 50px;
+   }
+   .awerd-iconn4{
+    width: 48px !important;
     height: 50px;
    }
    .awerd-text1{
     width: 68%;
    }
+   .fw-bold1{
+    height: 48%;
+   }
+   .fw-bold2{
+    height: 50%;
+   }
+   .fw-bold3{
+    height: 50%;
+   }
+   .fw-bold4{
+    height: 50%;
+   }
    .opacity-50{
     width: 150px;
-   }
+    }
    span{
     font-weight: bold;
     font-size: smaller;
    }
+   
 }
 @media (min-width: 577px) and (max-width:767px)
 {
@@ -272,6 +378,10 @@
     .box-1{
         width: 100%;
         height: 60px;
+    }
+    .box-2{
+        width: 100%;
+        height: 14%;
     }
     .navbar{
         width: 95%;
