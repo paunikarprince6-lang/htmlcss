@@ -33,7 +33,7 @@
 }
 
 .box{
-    width: 100%;
+    width: 96%;
     height: 170px;
 }
 /* .card1{
@@ -180,6 +180,5 @@ p{
     text-decoration: none !important;
 }
 .card-link{
-
     height: 25px;
 }

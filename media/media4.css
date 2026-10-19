@@ -22,7 +22,7 @@
         width: 70%;
     }
     .card-subtitle{
-        width: 99%;
+        width: 100%;
         font-size: 35px;
     }
     .card-text{
@@ -95,12 +95,12 @@
         height: 22px;
     }
     .box-2{
-        width: 100%;
+        width: 93%;
         height: 15%;
     }
     .list-group-item{
         flex-direction: column !important;
-        width: 310px;
+        width: 290px;
         height: 80%;
     }
      .call {
@@ -129,6 +129,9 @@
     width: 25%;
     height: 60px;
    }
+   .duo-box{
+        flex-direction: column !important;
+    }
    .awerd-icon2{
     width: 25%;
     height: 60px;
@@ -196,7 +199,7 @@
         width: 100%; 
     }
     .box-1{
-        width: 100%;
+        width: 91%;
         height: 60px;
     }
     .box-2{
@@ -207,6 +210,10 @@
         flex-direction: column !important;
         width: 380px;
         height: 80%;
+    }
+    .q{
+        width: 100%;
+        height: 10%;
     }
     .navbar{
         width: 95%;
@@ -233,7 +240,7 @@
         flex-direction: column !important;
     }
     .card-body{
-        height: 475px;
+        height: 325px;
     }
     .eng{
     width: 100%;
@@ -295,6 +302,9 @@
     }
     .f-1{
         font-size: 45px;
+    }
+    .duo-box{
+        flex-direction: column !important;
     }
     .review-header{
         width: 95%;
@@ -383,6 +393,10 @@
         width: 100%;
         height: 14%;
     }
+    .q{
+        width: 100%;
+        height: 10%;
+    }
     .navbar{
         width: 95%;
     }
@@ -424,6 +438,9 @@
     .eng{
         width: 100%;
     }
+    .duo-box{
+        flex-direction: column !important;
+    }
     .review-header{
         width: 95%;
         height: 55px;
@@ -435,20 +452,56 @@
     .w-2 {
     width: 25%;
     }
-    .awerd-icon{
+     .awerd-icon1{
     width: 25%;
     height: 60px;
    }
-   .awerd-iconn{
-    width: 100% !important;
+   .awerd-icon2{
+    width: 25%;
+    height: 60px;
+   }
+   .awerd-icon3{
+    width: 25%;
+    height: 60px;
+   }
+   .awerd-icon4{
+    width: 25%;
+    height: 60px;
+   }
+   .awerd-iconn1{
+    width: 48px !important;
+    height: 50px;
+   }
+   .awerd-iconn2{
+    width: 48px !important;
+    height: 50px;
+   }
+   .awerd-iconn3{
+    width: 48px !important;
+    height: 50px;
+   }
+   .awerd-iconn4{
+    width: 48px !important;
     height: 50px;
    }
    .awerd-text1{
     width: 68%;
    }
-   .opacity-50{
-    width: 150px;
+   .fw-bold1{
+    height: 48%;
    }
+   .fw-bold2{
+    height: 50%;
+   }
+   .fw-bold3{
+    height: 50%;
+   }
+   .fw-bold4{
+    height: 50%;
+   }
+  .opacity-50{
+    width: 150px;
+    }
    span{
     font-weight: bold;
     font-size: smaller;
@@ -473,6 +526,21 @@
     }
     .container-fluid{
         width: 1040px;
+    }
+    .duo-box{
+        flex-direction: column !important;
+    }
+    .box-2{
+        width: 100%;
+        height: 15%;
+    } 
+    .list-group-item{
+        width: 100%;
+        height: 80%;
+    }
+    .q{
+        width: 100%;
+        height: 40%;
     }
     .card-title{
         width: 35%;
@@ -618,6 +686,63 @@
    .opacity-50{
     width: 150px;
    }
+   .duo-box{
+        flex-direction: column !important;
+    }
+   span{
+    font-weight: bold;
+    font-size: smaller;
+   }
+    .awerd-icon1{
+    width: 25%;
+    height: 60px;
+   }
+   .awerd-icon2{
+    width: 25%;
+    height: 60px;
+   }
+   .awerd-icon3{
+    width: 25%;
+    height: 60px;
+   }
+   .awerd-icon4{
+    width: 25%;
+    height: 60px;
+   }
+   .awerd-iconn1{
+    width: 48px !important;
+    height: 50px;
+   }
+   .awerd-iconn2{
+    width: 48px !important;
+    height: 50px;
+   }
+   .awerd-iconn3{
+    width: 48px !important;
+    height: 50px;
+   }
+   .awerd-iconn4{
+    width: 48px !important;
+    height: 50px;
+   }
+   .awerd-text1{
+    width: 68%;
+   }
+   .fw-bold1{
+    height: 48%;
+   }
+   .fw-bold2{
+    height: 50%;
+   }
+   .fw-bold3{
+    height: 50%;
+   }
+   .fw-bold4{
+    height: 50%;
+   }
+   .opacity-50{
+    width: 150px;
+    }
    span{
     font-weight: bold;
     font-size: smaller;
@@ -634,28 +759,44 @@
         width: 100%;
     }
     .box{
-        width: 100%;
+        width: 97%;
     }
       .navbar{
-        width: 1010px;
+        width: 97%;
     }
      /* .container-fluid{
         width: 1040px;
     } */
     .card-title{
-        width: 40%;
+        width: 50%;
         height: 30px;
     }
     .navbar-brand{
         margin-left: 15px;
-        width: 13%;
+        width: 11%;
+    }
+    .box-2{
+        width: 100%;
+        height: 20%;
+    } 
+    .list-group-item{
+        flex-direction: row !important;
+        width: 87%;
+        height: 80%;
+    }
+    .duo-box{
+        flex-direction: column !important;
+    }
+    .q{
+        width: 50%;
+        height: 100%;
     }
      .card-subtitle{
-        width: 95%;
-        font-size: 54px;
+        width: 100%;
+        font-size: 48px;
     }
     .card-text{
-        width: 80%;
+        width: 84%;
         height: 100px;
     }
      .navbar-nav{
@@ -663,11 +804,6 @@
         
     }
     .card-body{
-        width: 65%;
-    }
-    
-    .list-group-item{
-        flex-direction: column;
         width: 65%;
     }
     .h {
@@ -755,25 +891,84 @@
     font-size: 14px;
     }
     .btn{
-    width: 30%;
+    width: 33%;
     font-size: 14px !important;
     }
     .f{
     width: 90%;
     }
-      .box-2{
-        height: 190px;
-    }
     .list-group{
         width: 100%;
-        height: 200px;
+        height: 67%;
+    }
+    .duo-box{
+        flex-direction: row !important;
+        width: 50%;
     }
     .mini-box{
         width: 88%;
     } 
     .awerd{
-        width: 25%;
+        width: 42%;
     }
+     .awerd-icon1{
+    width: 60%;
+    height: 60px;
+   }
+   .awerd-icon2{
+    width: 60%;
+    height: 60px;
+   }
+   .awerd-icon3{
+    width: 60%;
+    height: 60px;
+   }
+   .awerd-icon4{
+    width: 60%;
+    height: 60px;
+   }
+   .awerd-iconn1{
+    width: 48px !important;
+    height: 50px;
+   }
+   .awerd-iconn2{
+    width: 48px !important;
+    height: 50px;
+   }
+   .awerd-iconn3{
+    width: 48px !important;
+    height: 50px;
+   }
+   .awerd-iconn4{
+    width: 48px !important;
+    height: 50px;
+   }
+   .awerd-text1{
+    width: 68%;
+   }
+   .fw-bold1{
+    width: 100%;
+    height: 48%;
+   }
+   .fw-bold2{
+    width: 100%;
+    height: 50%;
+   }
+   .fw-bold3{
+    width: 100%;
+    height: 50%;
+   }
+   .fw-bold4{
+    width: 100%;
+    height: 50%;
+   }
+   .opacity-50{
+    width: 200px;
+    }
+   span{
+    font-weight: bold;
+    font-size: smaller;
+   }
    
 }
 @media (min-width: 1200px) and (max-width: 1400px) 
@@ -784,7 +979,7 @@
         width: 100%;
     }
     .box{
-        width: 100%;
+        width: 96%;
     }
     .navbar{
         width: 1156PX;
@@ -794,6 +989,22 @@
     }
     .card-body{
         width: 790px;
+    }
+    .box-2{
+        width: 100%;
+        height: 20%;
+    } 
+    .list-group-item{
+        flex-direction: row !important;
+        width: 87%;
+        height: 80%;
+    }
+    .duo-box{
+        flex-direction: column !important;
+    }
+    .q{
+        width: 50%;
+        height: 100%;
     }
     .navbar-brand{
         width: 30%;
@@ -875,7 +1086,72 @@
     .w-1{
         width: 50%;
         height: 55px;
+    } 
+    .duo-box{
+        flex-direction: row !important;
+        width: 50%;
     }
+    .awerd{
+        width: 42%;
+    }
+     .awerd-icon1{
+    width: 60%;
+    height: 60px;
+   }
+   .awerd-icon2{
+    width: 60%;
+    height: 60px;
+   }
+   .awerd-icon3{
+    width: 60%;
+    height: 60px;
+   }
+   .awerd-icon4{
+    width: 60%;
+    height: 60px;
+   }
+   .awerd-iconn1{
+    width: 48px !important;
+    height: 50px;
+   }
+   .awerd-iconn2{
+    width: 48px !important;
+    height: 50px;
+   }
+   .awerd-iconn3{
+    width: 48px !important;
+    height: 50px;
+   }
+   .awerd-iconn4{
+    width: 48px !important;
+    height: 50px;
+   }
+   .awerd-text1{
+    width: 68%;
+   }
+   .fw-bold1{
+    width: 100%;
+    height: 48%;
+   }
+   .fw-bold2{
+    width: 100%;
+    height: 50%;
+   }
+   .fw-bold3{
+    width: 100%;
+    height: 50%;
+   }
+   .fw-bold4{
+    width: 100%;
+    height: 50%;
+   }
+   .opacity-50{
+    width: 200px;
+    }
+   span{
+    font-weight: bold;
+    font-size: smaller;
+   }
     .v {
     width: 50%;
     } 
@@ -895,16 +1171,32 @@
         width: 960px;
         gap: 20px;
     }
+    .box-1{
+        width: 96%;
+        height: 10%;
+    }
+    .box-2{
+        width: 100%;
+        height: 20%;
+    } 
+    .list-group-item{
+        flex-direction: row !important;
+        width: 72%;
+        height: 80%;
+    }
+    .duo-box{
+        flex-direction: column !important;
+    }
+    .q{
+        width: 78%;
+        height: 112%;
+    }
       .card-subtitle{
         width: 85%;
         font-size: 54px;
     }
     .card1{
         flex-direction: row;
-    }
-    .list-group-item{
-        flex-direction: column;
-        width: 60%;
     }
     .h {
     width: 100%;
@@ -978,5 +1270,73 @@
     width: 95%;
     height: 35px;
     }
+    .duo-box{
+        flex-direction: row !important;
+        width: 50%;
+    }
+    .mini-box{
+        width: 88%;
+    } 
+    .awerd{
+        width: 42%;
+    }
+     .awerd-icon1{
+    width: 60%;
+    height: 60px;
+   }
+   .awerd-icon2{
+    width: 60%;
+    height: 60px;
+   }
+   .awerd-icon3{
+    width: 60%;
+    height: 60px;
+   }
+   .awerd-icon4{
+    width: 60%;
+    height: 60px;
+   }
+   .awerd-iconn1{
+    width: 48px !important;
+    height: 50px;
+   }
+   .awerd-iconn2{
+    width: 48px !important;
+    height: 50px;
+   }
+   .awerd-iconn3{
+    width: 48px !important;
+    height: 50px;
+   }
+   .awerd-iconn4{
+    width: 48px !important;
+    height: 50px;
+   }
+   .awerd-text1{
+    width: 68%;
+   }
+   .fw-bold1{
+    width: 100%;
+    height: 48%;
+   }
+   .fw-bold2{
+    width: 100%;
+    height: 50%;
+   }
+   .fw-bold3{
+    width: 100%;
+    height: 50%;
+   }
+   .fw-bold4{
+    width: 100%;
+    height: 50%;
+   }
+   .opacity-50{
+    width: 200px;
+    }
+   span{
+    font-weight: bold;
+    font-size: smaller;
+   }
 }
 
