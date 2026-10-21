@@ -45,7 +45,7 @@
 }
 .card-title{
     width: 27%;
-    font-size: 12px;
+    font-size: 15px;
 }
 .graypip{
     width: 95%;
@@ -56,8 +56,6 @@
 .paipi{
     height: 80px;
 }
-
-
 /* .card-text{
    width: 55%;
 } */
@@ -73,7 +71,12 @@
 .Appointment{
     width: 100%;
 }
-
+.dropdown-item:hover{
+    color: skyblue !important;
+}
+.nav-link:hover{
+    color: skyblue !important;
+}
 .v{
     width: 35%;
 }
@@ -148,7 +151,7 @@ p{
     height: 215px !important;
 } */
 .rating{
-    font-size: 12px;
+    font-size: 18px;
 }
 .line{
     width: 100%;

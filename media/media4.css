@@ -1,9 +1,12 @@
  @media (min-width: 320px) and (max-width: 375px)
 {
-    .image-box
-    {
-    flex-wrap: wrap;
-    width: 100%;
+    .image-box{
+      width: 100%;
+      height: 1450px;
+    }
+   .image-box::before{
+      width: 100%;
+      height: 1450px;
     }
     .box{
         width: 100%; 
@@ -15,7 +18,7 @@
         width: 95%;
     }
    .card-title {
-        width: 80%;
+        width: 93%;
         height: 30px;
     }
     .navbar-brand{
@@ -23,7 +26,7 @@
     }
     .card-subtitle{
         width: 100%;
-        font-size: 35px;
+        font-size: 31px;
     }
     .card-text{
         width: 100%;
@@ -96,12 +99,12 @@
     }
     .box-2{
         width: 100%;
-        height: 16%;
+        height: 10%;
     }
     .list-group-item{
         flex-direction: column !important;
         width: 290px;
-        height: 85%;
+        height: 60%;
     }
      .call {
     width: 50%;
@@ -190,10 +193,13 @@
 
 @media  (max-width: 576px) and (min-width: 425px)
 {
-    .image-box
-    {
-    flex-wrap: wrap;
-    width: 100%;
+    .image-box{
+      width: 100%;
+      height: 1362px;
+    }
+   .image-box::before{
+      width: 100%;
+      height: 1362px;
     }
     .box{
         width: 100%; 
@@ -208,7 +214,7 @@
     }
     .list-group-item{
         flex-direction: column !important;
-        width: 380px;
+        width: 358px;
         height: 100%;
     }
     .q{
@@ -222,7 +228,7 @@
         width: 95%;
     }
    .card-title {
-        width: 60%;
+        width: 76%;
         height: 30px;
     }
     .navbar-brand{
@@ -379,8 +385,12 @@
 @media (min-width: 577px) and (max-width:767px)
 {
     .image-box{
-        flex-wrap: wrap;
-        width: 100%;
+      width: 100%;
+      height: 1450px;
+    }
+   .image-box::before{
+      width: 100%;
+      height: 1450px;
     }
     .box{
         width: 100%;
@@ -510,9 +520,13 @@
 }
 @media (min-width: 768px) and (max-width: 991px)
 {
-  .image-box{
-        flex-wrap: wrap;
-        width: 100%;
+    .image-box{
+      width: 100%;
+      height: 1250px;
+    }
+   .image-box::before{
+      width: 100%;
+      height: 1250px;
     }
     .box{
         width: 100%;
@@ -543,7 +557,7 @@
         height: 40%;
     }
     .card-title{
-        width: 35%;
+        width: 40%;
         height: 30px;
     }
     .navbar-brand{
@@ -755,8 +769,12 @@
 {
    
     .image-box{
-        flex-wrap: wrap;
-        width: 100%;
+      width: 100%;
+      height: 850px;
+    }
+   .image-box::before{
+      width: 100%;
+      height: 850px;
     }
     .box{
         width: 97%;
@@ -768,7 +786,7 @@
         width: 1040px;
     } */
     .card-title{
-        width: 50%;
+        width: 53%;
         height: 30px;
     }
     .navbar-brand{
@@ -777,7 +795,7 @@
     }
     .box-2{
         width: 100%;
-        height: 20%;
+        height: 25%;
     } 
     .list-group-item{
         flex-direction: row !important;
@@ -975,8 +993,12 @@
 {
 
     .image-box{
-        flex-wrap: wrap;
-        width: 100%;
+      width: 100%;
+      height: 1450px;
+    }
+   .image-box::before{
+      width: 100%;
+      height: 1450px;
     }
     .box{
         width: 96%;
@@ -1158,6 +1180,14 @@
 }
 @media (min-width: 1401px) and (max-width: 1440px)
 {
+    .image-box{
+      width: 100%;
+      height: 915px;
+    }
+   .image-box::before{
+      width: 100%;
+      height: 915px;
+    }
     .call1{
         font-size: 45px;
     }
@@ -1177,7 +1207,7 @@
     }
     .box-2{
         width: 99%;
-        height: 20%;
+        height: 30%;
     } 
     .list-group-item{
         flex-direction: row !important;
@@ -1221,7 +1251,7 @@
         width: 100%;
     }
     .card-title {
-    width: 40%;
+    width: 33%;
     height: 30px;
     }   
     p {
