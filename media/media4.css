@@ -11,6 +11,9 @@
     .box{
         width: 100%; 
     }
+    .awerd-text2{
+        width: 71%;
+    }
     .navbar{
         width: 90% !important;
     }
@@ -102,7 +105,7 @@
     }
     .list-group-item{
         flex-direction: column !important;
-        width: 290px;
+        width: 280px;
         height: 60%;
     }
     .call {
@@ -143,7 +146,7 @@
        height: 60px;
    }
    .awerd-icon4{
-       width: 25%;
+       width: 27%;
        height: 60px;
    }
    .awerd-iconn1{
@@ -176,6 +179,9 @@
    }
    .fw-bold4{
       height: 50%;
+   }
+   .duo-box{
+    width: 100%;
    }
    .opacity-50{
       width: 150px;
@@ -272,6 +278,9 @@
     .button{
         flex-direction: row !important;
     }
+     .awerd-text2{
+        width: 72%;
+    }
     .btn{
     width: 50%;
     font-size: 12px !important;
@@ -357,9 +366,6 @@
     width: 48px !important;
     height: 50px;
    }
-   .awerd-text1{
-    width: 68%;
-   }
    .fw-bold1{
     height: 48%;
    }
@@ -375,6 +381,9 @@
    .opacity-50{
     width: 150px;
     }
+    .duo-box{
+    width: 100%;
+   }
    span{
     font-weight: bold;
     font-size: smaller;
@@ -461,6 +470,18 @@
     .w-2 {
     width: 25%;
     }
+    .awerd-text1{
+    width: 53%;
+   }
+   .awerd-text1{
+    width: 53%;
+   }
+   .awerd-text1{
+    width: 53%;
+   }
+   .awerd-text1{
+    width: 53%;
+   }
      .awerd-icon1{
     width: 25%;
     height: 60px;
@@ -584,8 +605,19 @@
         width: 100%;
         height: 400px;
         flex-direction: column !important;
-     
     }
+    .awerd-text1{
+    width: 53%;
+   }
+   .awerd-text1{
+    width: 53%;
+   }
+   .awerd-text1{
+    width: 53%;
+   }
+   .awerd-text1{
+    width: 53%;
+   }
     .ms-2{
         height: 75px;
     }
@@ -705,6 +737,18 @@
    span{
     font-weight: bold;
     font-size: smaller;
+   }
+   .awerd-text1{
+    width: 53%;
+   }
+   .awerd-text1{
+    width: 53%;
+   }
+   .awerd-text1{
+    width: 53%;
+   }
+   .awerd-text1{
+    width: 53%;
    }
     .awerd-icon1{
     width: 25%;
@@ -920,13 +964,19 @@
     }
     .duo-box{
         flex-direction: row !important;
-        width: 50%;
+        width: 51%;
     }
     .mini-box{
         width: 88%;
     } 
+    .awerd-text2{
+        width: 70%;
+    }
+    .awerd-text1{
+        width: 70%;
+    }
     .awerd{
-        width: 42%;
+        width: 49%;
     }
      .awerd-icon1{
     width: 60%;
@@ -959,9 +1009,6 @@
    .awerd-iconn4{
     width: 48px !important;
     height: 50px;
-   }
-   .awerd-text1{
-    width: 68%;
    }
    .fw-bold1{
     width: 100%;
@@ -1115,6 +1162,18 @@
     .awerd{
         width: 42%;
     }
+    .awerd-text1{
+    width: 53%;
+   }
+   .awerd-text1{
+    width: 53%;
+   }
+   .awerd-text1{
+    width: 53%;
+   }
+   .awerd-text1{
+    width: 53%;
+   }
      .awerd-icon1{
     width: 60%;
     height: 60px;
@@ -1148,7 +1207,7 @@
       height: 50px;
     }
     .awerd-text1{
-      width: 68%;
+      width: 70%;
     }
     .fw-bold1{
       width: 100%;
@@ -1196,6 +1255,9 @@
     .navbar-brand{
         margin-left: 20px;
     }
+    .awerd-text1{
+        width: 95%;
+    }
      .navbar-nav{
         width: 960px;
         gap: 20px;
@@ -1226,6 +1288,9 @@
     .q{
         width: 58%;
         height: 50%;
+    }
+    .awerd-text2{
+        width: 100%;
     }
       .card-subtitle{
         width: 85%;
@@ -1315,6 +1380,9 @@
     .awerd{
         width: 45%;
     }
+    .border-start{
+        width: 50%;
+    }
     .awerd-icon1{
       width: 65%;
       height: 65px;
@@ -1348,7 +1416,7 @@
       height: 65px;
     }
     .awerd-text1{
-      width: 68%;
+      width: 85%;
     }
     .fw-bold1{
       width: 100%;
