@@ -564,13 +564,20 @@
     .duo-box{
         flex-direction: column !important;
     }
+    .voder{
+        width: 1%;
+        height: 145px;
+    }
+    .line1{
+        color: rgb(230, 224, 224) !important;
+    }
     .box-2{
         width: 100%;
         height: 15%;
     } 
     .list-group-item{
         width: 100%;
-        height: 80%;
+        height: 90%;
     }
     .q{
         width: 100%;
@@ -657,14 +664,10 @@
     .eng{
         width: 100%;
     }
-    /*   */
     p {
     width: 75%;
     height: 65px;
     }
-    /* .button{
-        width: 100%;
-    } */
     .w {
     width: 25% !important;
     height: 50px;
@@ -711,11 +714,11 @@
         height: 200px;
     }
     .awerd{
-        width: 65%;
-        height: 60px;
+        width: 90%;
+        height: 75px;
     }
    .duo-box{
-    width: 100%;
+    width: 40%;
    }
    .awerd-icon{
     width: 25%;
@@ -763,7 +766,7 @@
     height: 60px;
    }
    .awerd-icon4{
-    width: 25%;
+    width: 80%;
     height: 60px;
    }
    .awerd-iconn1{
@@ -825,9 +828,6 @@
       .navbar{
         width: 97%;
     }
-     /* .container-fluid{
-        width: 1040px;
-    } */
     .card-title{
         width: 53%;
         height: 30px;
@@ -882,15 +882,11 @@
     .eng{
         width: 100%;
     }
-    /*   */
     p {
     width: 90%;
     height: 70px;
     font-size: 14px;
     }
-    /* .button{
-        width: 100%;
-    } */
     .w-251{
         width: 30%;
         font-size: 13px !important;
@@ -901,10 +897,6 @@
     height: 40px;
     font-size: 15px !important;
     }
-    /* .btn{
-    width: 25%;
-    font-size: 15px !important;
-    } */
     .d {
     height: 75px;
     }
@@ -1442,4 +1434,3 @@
       font-size: smaller;
     }
 }
-
