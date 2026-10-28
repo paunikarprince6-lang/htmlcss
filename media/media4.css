@@ -9,31 +9,31 @@
       height: 1450px;
     }
     .box{
-        width: 100%; 
+      width: 100%; 
     }
     .awerd-text2{
-        width: 71%;
+      width: 71%;
     }
     .navbar{
-        width: 90% !important;
+      width: 90% !important;
     }
     .container-fluid{
-        width: 95%;
+      width: 95%;
     }
    .card-title {
-        width: 93%;
-        height: 30px;
+      width: 93%;
+      height: 30px;
     }
     .navbar-brand{
-        width: 70%;
+       width: 70%;
     }
     .card-subtitle{
-        width: 100%;
-        font-size: 31px;
+       width: 100%;
+       font-size: 31px;
     }
     .card-text{
-        width: 100%;
-        height: 125px;
+       width: 100%;
+       height: 125px;
     }
     .card1{
         width: 90%;
@@ -133,63 +133,63 @@
     .awerd-icon1{
         width: 25%;
         height: 60px;
-   }
-   .duo-box{
+    }
+    .duo-box{
         flex-direction: column !important;
     }
-   .awerd-icon2{
+    .awerd-icon2{
         width: 25%;
         height: 60px;
-   }
-   .awerd-icon3{
+    }
+    .awerd-icon3{
        width: 25%;
        height: 60px;
-   }
-   .awerd-icon4{
+    }
+    .awerd-icon4{
        width: 27%;
        height: 60px;
-   }
-   .awerd-iconn1{
+    }
+    .awerd-iconn1{
        width: 48px !important;
        height: 50px;
-   }
-   .awerd-iconn2{
+    }
+    .awerd-iconn2{
        width: 48px !important;
        height: 50px;
-   }
-   .awerd-iconn3{
+    }
+    .awerd-iconn3{
        width: 48px !important;
        height: 50px;
-   }
-   .awerd-iconn4{
+    }
+    .awerd-iconn4{
       width: 48px !important;
       height: 50px;
-   }
-   .awerd-text1{
+    }
+    .awerd-text1{
       width: 68%;
-   }
-   .fw-bold1{
-      height: 48%;
-   }
-   .fw-bold2{
+    }
+    .fw-bold1{
+       height: 48%;
+    }
+    .fw-bold2{
       height: 50%;
-   }
-   .fw-bold3{
+    }
+    .fw-bold3{
       height: 50%;
-   }
-   .fw-bold4{
+    }
+    .fw-bold4{
       height: 50%;
-   }
-   .duo-box{
-    width: 100%;
-   }
-   .opacity-50{
+    }
+    .duo-box{
+      width: 100%;
+    }
+    .opacity-50{
       width: 150px;
     }
-   span{
+    span{
       font-weight: bold;
       font-size: smaller;
-   }
+    }
     p{
       width: 100%;
       height: 75px;
@@ -235,7 +235,7 @@
       width: 100%;
       height: 1362px;
     }
-   .image-box::before{
+    .image-box::before{
       width: 100%;
       height: 1362px;
     }
@@ -262,10 +262,10 @@
     .navbar{
         width: 95%;
     }
-     .container-fluid{
+    .container-fluid{
         width: 95%;
     }
-   .card-title {
+    .card-title {
         width: 76%;
         height: 30px;
     }
@@ -297,16 +297,16 @@
         width: 55%;
     }
     .v{
-    width: 100%;
+        width: 100%;
     }
     .row {
-    width: 108%;
-    height: 62px;
+       width: 108%;
+       height: 62px;
     }
     .height1 {
-    height: 5px;
-    font-style: normal;
-    font-size: 12px;
+      height: 5px;
+      font-style: normal;
+      font-size: 12px;
     }
     .button{
         flex-direction: row !important;
@@ -315,8 +315,8 @@
         width: 72%;
     }
     .btn{
-    width: 50%;
-    font-size: 12px !important;
+       width: 50%;
+       font-size: 12px !important;
     }
     .v{
         flex-direction: column !important;
@@ -324,12 +324,12 @@
         height: 400px;
     }
     .card1{
-    width: 90%;
+       width: 90%;
     
     }
     .h {
-    width: 100%;
-    height: 85px;
+      width: 100%;
+      height: 85px;
     }
      .Treated-Patients{
         width: 50%;
@@ -340,12 +340,12 @@
         height: 22px;
     }
      .call {
-    width: 35%;
-    height: 85px;
+      width: 35%;
+      height: 85px;
     }
     .icon {
-    width: 60% !important;
-    height: 45px !important;
+       width: 60% !important;
+       height: 45px !important;
     }
     .f-1{
         font-size: 45px;
@@ -365,63 +365,63 @@
         width: 100%;
     }
     .w-2 {
-    width: 25%;
+      width: 25%;
     }
-     .awerd-icon1{
-    width: 25%;
-    height: 60px;
+    .awerd-icon1{
+      width: 25%;
+      height: 60px;
    }
    .awerd-icon2{
-    width: 25%;
-    height: 60px;
+      width: 25%;
+      height: 60px;
    }
    .awerd-icon3{
-    width: 25%;
-    height: 60px;
+      width: 25%;
+      height: 60px;
    }
    .awerd-icon4{
-    width: 25%;
-    height: 60px;
+      width: 25%;
+      height: 60px;
    }
    .awerd-iconn1{
-    width: 48px !important;
-    height: 50px;
+      width: 48px !important;
+      height: 50px;
    }
    .awerd-iconn2{
-    width: 48px !important;
-    height: 50px;
+      width: 48px !important;
+      height: 50px;
    }
    .awerd-iconn3{
-    width: 48px !important;
-    height: 50px;
+      width: 48px !important;
+      height: 50px;
    }
    .awerd-iconn4{
-    width: 48px !important;
-    height: 50px;
+      width: 48px !important;
+      height: 50px;
    }
    .fw-bold1{
-    height: 48%;
+      height: 48%;
    }
    .fw-bold2{
-    height: 50%;
+      height: 50%;
    }
    .fw-bold3{
-    height: 50%;
+      height: 50%;
    }
    .fw-bold4{
-    height: 50%;
+      height: 50%;
    }
-   .opacity-50{
-    width: 150px;
+    .opacity-50{
+      width: 150px;
     }
     .duo-box{
-    width: 100%;
-   }
-   span{
-    font-weight: bold;
-    font-size: smaller;
-   }
-   .card-body4{
+      width: 100%;
+    }
+    span{
+      font-weight: bold;
+      font-size: smaller;
+    }
+    .card-body4{
        width: 22%;
        flex-direction: column !important;
     }  
@@ -461,7 +461,7 @@
       width: 100%;
       height: 1450px;
     }
-   .image-box::before{
+    .image-box::before{
       width: 100%;
       height: 1450px;
     }
@@ -503,8 +503,8 @@
         width: 100%;
     }
     .h {
-    width: 100%;
-    height: 80px;
+      width: 100%;
+      height: 80px;
     }
      .Treated-Patients{
         width: 50%;
@@ -515,8 +515,8 @@
         height: 22px;
     }
      .call {
-    width: 14%;
-    height: 75px;
+      width: 14%;
+      height: 75px;
     }
     .eng{
         width: 100%;
@@ -533,74 +533,74 @@
         height: 55px;
     }
     .w-2 {
-    width: 25%;
+      width: 25%;
     }
     .awerd-text1{
-    width: 53%;
-   }
-   .awerd-text1{
-    width: 53%;
-   }
-   .awerd-text1{
-    width: 53%;
-   }
-   .awerd-text1{
-    width: 53%;
-   }
-     .awerd-icon1{
-    width: 25%;
-    height: 60px;
-   }
-   .awerd-icon2{
-    width: 25%;
-    height: 60px;
-   }
-   .awerd-icon3{
-    width: 25%;
-    height: 60px;
-   }
-   .awerd-icon4{
-    width: 25%;
-    height: 60px;
-   }
-   .awerd-iconn1{
-    width: 48px !important;
-    height: 50px;
-   }
-   .awerd-iconn2{
-    width: 48px !important;
-    height: 50px;
-   }
-   .awerd-iconn3{
-    width: 48px !important;
-    height: 50px;
-   }
-   .awerd-iconn4{
-    width: 48px !important;
-    height: 50px;
-   }
-   .awerd-text1{
-    width: 68%;
-   }
-   .fw-bold1{
-    height: 48%;
-   }
-   .fw-bold2{
-    height: 50%;
-   }
-   .fw-bold3{
-    height: 50%;
-   }
-   .fw-bold4{
-    height: 50%;
-   }
-  .opacity-50{
-    width: 150px;
+      width: 53%;
     }
-   span{
-    font-weight: bold;
-    font-size: smaller;
-   }
+    .awerd-text1{
+      width: 53%;
+    }
+    .awerd-text1{
+      width: 53%;
+    }
+    .awerd-text1{
+      width: 53%;
+    }
+    .awerd-icon1{
+      width: 25%;
+      height: 60px;
+    }
+    .awerd-icon2{
+      width: 25%;
+      height: 60px;
+    }
+    .awerd-icon3{
+      width: 25%;
+      height: 60px;
+    }
+    .awerd-icon4{
+      width: 25%;
+      height: 60px;
+    }
+    .awerd-iconn1{
+      width: 48px !important;
+      height: 50px;
+    }
+    .awerd-iconn2{
+      width: 48px !important;
+      height: 50px;
+    }
+    .awerd-iconn3{
+      width: 48px !important;
+      height: 50px;
+    }
+    .awerd-iconn4{
+      width: 48px !important;
+      height: 50px;
+    }
+    .awerd-text1{
+      width: 68%;
+    }
+    .fw-bold1{
+      height: 48%;
+    }
+    .fw-bold2{
+      height: 50%;
+    }
+    .fw-bold3{
+      height: 50%;
+    }
+    .fw-bold4{
+      height: 50%;
+    }
+    .opacity-50{
+      width: 150px;
+    }
+    span{
+      font-weight: bold;
+      font-size: smaller;
+    }
    .card-body4{
        width: 22%;
        flex-direction: column !important;
@@ -663,11 +663,12 @@
         flex-direction: column !important;
     }
     .voder{
-        width: 1%;
-        height: 145px;
+        width: 1px;
+        height: 80%;
+        background-color: gray !important;
     }
-    .line1{
-        color: rgb(230, 224, 224) !important;
+    .border{
+        width: 1px;
     }
     .box-2{
         width: 100%;
@@ -954,6 +955,12 @@
     .box{
         width: 97%;
     }
+    .card-1{
+        width: 99%;
+    }
+    .card1{
+        width: 92%;
+    }
       .navbar{
         width: 97%;
     }
@@ -966,12 +973,12 @@
         width: 11%;
     }
     .box-2{
-        width: 100%;
+        width: 97%;
         height: 25%;
     } 
     .list-group-item{
         flex-direction: row !important;
-        width: 92%;
+        width: 100%;
         height: 80%;
     }
     .duo-box{
@@ -983,7 +990,7 @@
     }
      .card-subtitle{
         width: 100%;
-        font-size: 48px;
+        font-size: 43px;
     }
     .card-text{
         width: 84%;
@@ -1065,9 +1072,6 @@
     .v{
     width: 40%;
     } 
-    .card1{
-        width: 90%;
-    }
     .main-line {
     width: 90%;
     font-size: 14px;
@@ -1080,7 +1084,7 @@
     width: 90%;
     }
     .list-group{
-        width: 100%;
+        width: 95%;
         height: 67%;
     }
     .duo-box{
@@ -1187,14 +1191,14 @@
 
     .image-box{
       width: 100%;
-      height: 1450px;
+      height: 850px;
     }
    .image-box::before{
       width: 100%;
-      height: 1450px;
+      height: 850px;
     }
     .box{
-        width: 96%;
+        width: 99%;
     }
     .navbar{
         width: 1156PX;
@@ -1205,9 +1209,15 @@
     .card-body{
         width: 790px;
     }
+    .card-1{
+        width: 99%;
+    }
+    .card1{
+        width: 92%;
+    }
     .box-2{
-        width: 100%;
-        height: 20%;
+        width: 99%;
+        height: 24%;
     } 
     .list-group-item{
         flex-direction: row !important;
@@ -1222,18 +1232,22 @@
         height: 100%;
     }
     .navbar-brand{
-        width: 30%;
+        width: 25%;
     }
     .card-subtitle{
         width: 75%;
         font-size: 54px;
     } 
     .card-text{
-        width: 55%;
+        width: 65%;
     }
+    .list-group{
+        width: 94%;
+        height: 75%;
+    } 
      .list-group-item{
         flex-direction: column;
-        width: 65%;
+        width: 100%;
     }
     .h {
     width: 100%;
@@ -1266,12 +1280,12 @@
     height: 50px;
     }
     .w1 {
-    width: 20% !important;
+    width: 28% !important;
     height: 45px;
     }
     .btn{
     width: 30%;
-    font-size: 14px !important;
+    font-size: 18px !important;
     }
     .d {
     height: 75px;
@@ -1307,7 +1321,7 @@
         width: 50%;
     }
     .awerd{
-        width: 42%;
+        width: 48%;
     }
     .awerd-text1{
     width: 53%;
@@ -1358,19 +1372,19 @@
     }
     .fw-bold1{
       width: 100%;
-      height: 48%;
+      height: 60%;
     }
     .fw-bold2{
       width: 100%;
-      height: 50%;
+      height: 60%;
     }
     .fw-bold3{
       width: 100%;
-      height: 50%;
+      height: 60%;
     }
     .fw-bold4{
       width: 100%;
-      height: 50%;
+      height: 60%;
     }
     .opacity-50{
       width: 200px;
@@ -1390,9 +1404,9 @@
        height: 100px;
     }
     .card-subtitle4{
-       width: 35%;
+       width: 38%;
        height: 40px;
-       font-size: 25px;
+       font-size: 22px;
     }
     .h11{
        width: 95%;
@@ -1404,9 +1418,9 @@
        height: 30px;
     }
     .pi{
-      width: 100%;
+      width: 93%;
       height: 10px;
-      font-size: 18px;
+      font-size: 17px;
     }
 }
 @media (min-width: 1401px) and (max-width: 1440px)
@@ -1641,7 +1655,7 @@
       font-size: 18px;
     }
 }
-@media (min-width: 1441px) and (max-width: 1790px)
+/* @media (min-width: 1441px) and (max-width: 1790px)
 {
     .image-box{
       width: 100%;
@@ -1658,7 +1672,7 @@
         width: 98%;
     }
     .navbar-brand{
-       
+       width: 100%;
     }
     .awerd-text1{
         width: 95%;
@@ -1681,7 +1695,7 @@
         height: 85%;
     }
     .card1{
-        width: 91%;
+        width: 99%;
     }
     .list-group{
         width: 100%;
@@ -1870,6 +1884,6 @@
     .pi{
       width: 100%;
       height: 10px;
-      font-size: 22px;
+      font-size: 23px;
     }
-}
+} */
