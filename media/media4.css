@@ -225,7 +225,7 @@
     }
     .k{
         width: 9%;
-        height: 10%;
+        height: 340px;
     }
 }
 
@@ -452,7 +452,7 @@
     }
     .k{
         width: 18%;
-        height: 10%;
+        height: 340px;
     }
 }
 @media (min-width: 577px) and (max-width:767px)
@@ -632,7 +632,7 @@
     }
     .k{
         width: 10%;
-        height: 10%;
+        height: 340px;
     }
   
 }
@@ -937,7 +937,7 @@
     }
     .k{
         width: 10%;
-        height: 10%;
+        height: 340px;
     }
 }
 
@@ -1160,6 +1160,7 @@
    }
    .card-body4{
        height: 200px;
+       width: 95%;
     }  
     .card-title4{
        width: 55%;
@@ -1398,6 +1399,7 @@
     } 
     .card-body4{
        height: 200px;
+       width: 95%;
     }  
     .card-title4{
        width: 55%;
@@ -1630,6 +1632,7 @@
     }
     .card-body4{
        height: 200px;
+       width: 95%;
     }  
     .card-title4{
        width: 55%;
