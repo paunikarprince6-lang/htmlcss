@@ -1,4 +1,4 @@
- @media (min-width: 320px) and (max-width: 375px)
+ @media (min-width: 320px) and (max-width: 374px)
 {
     .image-box{
       width: 100%;
@@ -105,7 +105,238 @@
     }
     .list-group-item{
         flex-direction: column !important;
-        width: 280px;
+        width: 295px;
+        height: 60%;
+    }
+    .call {
+        width: 50%;
+        height: 85px;
+    }
+    .icon {
+        width: 60% !important;
+        height: 45px !important;
+    }
+    .f-1{
+        font-size: 45px;
+    }
+    .review-header{
+        width: 95%;
+        height: 55px;
+    }
+     .w-1{
+        width: 60%;
+        height: 55px;
+    }
+    .card-link{
+        width: 100%;
+    }
+    .awerd-icon1{
+        width: 25%;
+        height: 60px;
+    }
+    .duo-box{
+        flex-direction: column !important;
+    }
+    .awerd-icon2{
+        width: 25%;
+        height: 60px;
+    }
+    .awerd-icon3{
+       width: 25%;
+       height: 60px;
+    }
+    .awerd-icon4{
+       width: 27%;
+       height: 60px;
+    }
+    .awerd-iconn1{
+       width: 48px !important;
+       height: 50px;
+    }
+    .awerd-iconn2{
+       width: 48px !important;
+       height: 50px;
+    }
+    .awerd-iconn3{
+       width: 48px !important;
+       height: 50px;
+    }
+    .awerd-iconn4{
+      width: 48px !important;
+      height: 50px;
+    }
+    .awerd-text1{
+      width: 68%;
+    }
+    .fw-bold1{
+       height: 48%;
+    }
+    .fw-bold2{
+      height: 50%;
+    }
+    .fw-bold3{
+      height: 50%;
+    }
+    .fw-bold4{
+      height: 50%;
+    }
+    .duo-box{
+      width: 100%;
+    }
+    .opacity-50{
+      width: 150px;
+    }
+    span{
+      font-weight: bold;
+      font-size: smaller;
+    }
+    p{
+      width: 100%;
+      height: 75px;
+    }
+    .card-body4{
+       width: 22%;
+       flex-direction: column !important;
+    }  
+    .card-title4{
+       width: 10px;
+       height: 100px;
+    }
+    .card-subtitle4{
+       width: 200px;
+       height: 30px;
+       font-size: 18px;
+    }
+    .h11{
+       width: 310px;
+       height: 100px;
+       font-size: 33px;
+    }
+    .card-text4{
+       width: 40%;
+       height: 45%;
+    }
+    .pi{
+      width: 251px;
+      height: 250px;
+      font-size: 15px;
+      justify-content: left !important;
+      align-items: center !important;
+    }
+    .k{
+        width: 9%;
+        height: 402px;
+    }
+}
+
+@media (min-width: 375px) and (max-width: 424px)
+{
+    .image-box{
+      width: 100%;
+      height: 1450px;
+    }
+   .image-box::before{
+      width: 100%;
+      height: 1450px;
+    }
+    .box{
+      width: 100%; 
+    }
+    .awerd-text2{
+      width: 71%;
+    }
+    .navbar{
+      width: 90% !important;
+    }
+    .container-fluid{
+      width: 95%;
+    }
+   .card-title {
+      width: 93%;
+      height: 30px;
+    }
+    .navbar-brand{
+       width: 70%;
+    }
+    .card-subtitle{
+       width: 100%;
+       font-size: 31px;
+    }
+    .card-text{
+       width: 100%;
+       height: 125px;
+    }
+    .card1{
+        width: 90%;
+        height: 1000px;
+        flex-direction: column !important;
+    }
+    .card-1{
+        width: 100% !important;
+        flex-direction: column !important;
+    }
+   .box-1{
+        width: 100% ;
+        height: 100px;
+    }
+    .card-body{
+        width: 100%;
+        height: 445px;
+    }
+    .eng{
+       width: 100%;
+       height: 85px;
+    }
+    .w{
+        width: 55%;
+    }
+    .w-251{
+        width: 60% !important;
+        font-size: 13px !important;
+        height: 40px !important;
+    }
+    .row {
+       width: 120%;
+       height: 90px;
+    }
+    .height1 {
+       height: 5px;
+       font-style: normal;
+       font-size: 12px;
+    }
+    .button{
+        width: 100%;
+        flex-direction: column !important;
+    }
+    .btn{
+        width: 50%;
+        height: 40px;
+        font-size: 12px !important;
+    }
+    .v1{
+        flex-direction: column !important;
+        width: 110%;
+        height: 400px;
+    }
+    .h {
+       width: 100%;
+       height: 85px;
+    }
+     .Treated-Patients{
+        width: 50%;
+        height: 75px;
+    }
+    .Treated{
+        width: 75%;
+        height: 22px;
+    }
+    .box-2{
+        width: 100%;
+        height: 10%;
+    }
+    .list-group-item{
+        flex-direction: column !important;
+        width: 345px;
         height: 60%;
     }
     .call {
@@ -217,15 +448,15 @@
        height: 45%;
     }
     .pi{
-      width: 251px;
-      height: 180px;
+      width: 310px;
+      height: 140px;
       font-size: 15px;
       justify-content: left !important;
       align-items: center !important;
     }
     .k{
         width: 9%;
-        height: 340px;
+        height: 310px;
     }
 }
 
@@ -445,14 +676,14 @@
     }
     .pi{
       width: 360px;
-      height: 180px;
+      height: 140px;
       font-size: 15px;
       justify-content: left !important;
       align-items: center !important;
     }
     .k{
         width: 18%;
-        height: 340px;
+        height: 310px;
     }
 }
 @media (min-width: 577px) and (max-width:767px)
@@ -634,7 +865,6 @@
         width: 10%;
         height: 340px;
     }
-  
 }
 @media (min-width: 768px) and (max-width: 991px)
 {
@@ -743,11 +973,9 @@
       width: 50%;
       height: 44px;  
     }
-   
     .name{
         width: 100%;
-    }
-        
+    } 
     .h {
     width: 100%;
     height: 80px;
@@ -940,11 +1168,9 @@
         height: 340px;
     }
 }
-
 @media (min-width: 992px) and (max-width: 1199px)
 {
-   
-    .image-box{
+   .image-box{
       width: 100%;
       height: 850px;
     }
@@ -1185,11 +1411,9 @@
       height: 10px;
       font-size: 15px;
     }
-   
 }
 @media (min-width: 1200px) and (max-width: 1400px) 
 {
-
     .image-box{
       width: 100%;
       height: 850px;
